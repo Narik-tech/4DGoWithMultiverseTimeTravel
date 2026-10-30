@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "game-static",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:\\Users\\Kiran\\AppData\\Local\\Temp\\claude\\C--MyProjects-4dgo\\a4778b44-8085-4f3c-a8db-8a5cf61596f6\\scratchpad\\serve.mjs", "C:\\MyProjects\\4dgo\\go4d-web\\public", "5178"],
+      "port": 5178
+    }
+  ]
+}
